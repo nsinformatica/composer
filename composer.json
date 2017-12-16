@@ -1,0 +1,15 @@
+{
+    "name": "nsinformatica/composer",
+    "description": "Arquivos do Composer em aula Hcode",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Neto Sales",
+            "email": "contato@netosales.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
